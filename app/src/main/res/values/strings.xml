@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Prueba de Ingreso</string>
+    <string name="see_posts">Ver publicaciones</string>
+    <string name="search_user">Buscar usuario</string>
+    <string name="not_data_to_empty">No hay datos para mostrar.</string>
+    <string name="please_wait">Por favor espere</string>
+    <string name="users">Usuarios</string>
+    <string name="post">Publicaciones</string>
+    <string name="email_content_desc">E-Mail</string>
+    <string name="phone_content_desc">Teléfono</string>
+
+    <!-- PLACEHOLDERS -->
+    <string name="placeholder_username">Crhistian David Vergara Gómez</string>
+    <string name="placeholder_phone">(+57) 318-391-9187</string>
+    <string name="placeholder_email">krisskira@gmail.com</string>
+    <string name="placeholder_post_title">sunt aut facere repellat provident occaecati excepturi optio reprehenderit</string>
+    <string name="placeholder_post_body">est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla</string>
+
+</resources>
